@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "112471738588",
+    "project_id": "reelix-bab45",
+    "storage_bucket": "reelix-bab45.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112471738588:android:8f93a505eadfea711b4c19",
+        "android_client_info": {
+          "package_name": "com.example.reelix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXT84PJfhZioBLJe_lcnHxGYNkdSLnjDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
